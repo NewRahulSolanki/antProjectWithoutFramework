@@ -1,0 +1,11 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.section{
+  width: 70vw;
+  height: 100vh;
+  background-color: #181823;
+  color: white;
+}
